@@ -1,0 +1,15 @@
+Línea 1 del fichero text1.txt
+Línea 2 del fichero text1.txt
+Línea 3 del fichero text1.txt
+Línea 4 del fichero text1.txt
+Línea 5 del fichero text1.txt
+Línea 6 del fichero text1.txt
+Línea 7 del fichero text1.txt
+Línea 8 del fichero text1.txt
+Línea 9 del fichero text1.txt
+Línea 10 del fichero text1.txt
+Línea 11 del fichero text1.txt
+Línea 12 del fichero text1.txt
+Línea 13 del fichero text1.txt
+Línea 14 del fichero text1.txt
+Línea 15 del fichero text1.txt

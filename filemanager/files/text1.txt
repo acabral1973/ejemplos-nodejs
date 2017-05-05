@@ -1,0 +1,6 @@
+Línea 1 del fichero text1.txt
+Línea 2 del fichero text1.txt
+Línea 3 del fichero text1.txt
+Línea 4 del fichero text1.txt
+Línea 5 del fichero text1.txt
+
